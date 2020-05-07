@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* `¡Bienvenido! Si tienes algún problema, añádelo a los issues del repositorio con la etiqueta adecuada. ¡Prometemos responder lo más pronto posible! 😄`
+* `¡Gracias por tu contribución! 🎉 En un rato será revisada por uno de nuestros maintainers.`
+* `¡Tu cambio ha sido aprobado! 😱 Muchas gracias, ¡Eres lo mejor! ❤`
