@@ -4,7 +4,12 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot incluye cosas muy chidas como:
+* Ser amable contigo cuando quieres contribuir a un repo.
+* Poner emojis justo cuando los necesitas.
+* Ser extremadamente rápido.
+* No ser impaciente.
+* Darte enlaces que te llevan a donde necesitas ir.
 
 ## Getting started
 
